@@ -17,7 +17,8 @@
             "group": "Personal AI Machine",
             "pages": [
               "index",
-              "riley-memory"
+              "riley-memory",
+              "jack-memory"
             ]
           },
           "master-call-script-mdx"
